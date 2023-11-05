@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-slice-dimension-to",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return a read-only truncated view of an input ndarray along a specific dimension.",
   "license": "Apache-2.0",
   "author": {
@@ -42,7 +42,7 @@
     "@stdlib/assert-is-integer": "^0.1.0",
     "@stdlib/assert-is-ndarray-like": "^0.1.0",
     "@stdlib/assert-is-plain-object": "^0.1.1",
-    "@stdlib/ndarray-base-slice-dimension-to": "github:stdlib-js/ndarray-base-slice-dimension-to#main",
+    "@stdlib/ndarray-base-slice-dimension-to": "^0.1.0",
     "@stdlib/string-format": "^0.1.1",
     "@stdlib/types": "^0.1.0"
   },
