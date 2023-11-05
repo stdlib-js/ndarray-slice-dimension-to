@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import sliceDimensionTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-slice-dimension-to@deno/mod.js';
+import sliceDimensionTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-slice-dimension-to@v0.1.0-deno/mod.js';
 ```
 
 #### sliceDimensionTo( x, dim, stop\[, options] )
@@ -154,7 +154,7 @@ arr = ndarray2array( y );
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zero-to@deno/mod.js';
-import sliceDimensionTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-slice-dimension-to@deno/mod.js';
+import sliceDimensionTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-slice-dimension-to@v0.1.0-deno/mod.js';
 
 // Create a linear ndarray buffer:
 var buf = zeroTo( 27 );
