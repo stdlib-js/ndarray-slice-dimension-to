@@ -218,6 +218,16 @@ var a3 = ndarray2array( y3 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/ndarray-array`][@stdlib/ndarray/array]</span><span class="delimiter">: </span><span class="description">multidimensional arrays.</span>
+-   <span class="package-name">[`@stdlib/ndarray-ctor`][@stdlib/ndarray/ctor]</span><span class="delimiter">: </span><span class="description">multidimensional array constructor.</span>
+-   <span class="package-name">[`@stdlib/ndarray-slice`][@stdlib/ndarray/slice]</span><span class="delimiter">: </span><span class="description">return a read-only view of an input ndarray.</span>
+-   <span class="package-name">[`@stdlib/ndarray-slice-dimension`][@stdlib/ndarray/slice-dimension]</span><span class="delimiter">: </span><span class="description">return a read-only view of an input ndarray when sliced along a specified dimension.</span>
+-   <span class="package-name">[`@stdlib/ndarray-slice-dimension-from`][@stdlib/ndarray/slice-dimension-from]</span><span class="delimiter">: </span><span class="description">return a read-only shifted view of an input ndarray along a specific dimension.</span>
+
 </section>
 
 <!-- /.related -->
@@ -261,8 +271,8 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/ndarray-slice-dimension-to.svg
 [npm-url]: https://npmjs.org/package/@stdlib/ndarray-slice-dimension-to
 
-[test-image]: https://github.com/stdlib-js/ndarray-slice-dimension-to/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/ndarray-slice-dimension-to/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/ndarray-slice-dimension-to/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/ndarray-slice-dimension-to/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/ndarray-slice-dimension-to/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/ndarray-slice-dimension-to?branch=main
@@ -291,7 +301,19 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/ndarray-slice-dimension-to/main/LICENSE
 
-[@stdlib/ndarray/ctor]: https://github.com/stdlib-js/stdlib
+[@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
+
+<!-- <related-links> -->
+
+[@stdlib/ndarray/array]: https://github.com/stdlib-js/ndarray-array
+
+[@stdlib/ndarray/slice]: https://github.com/stdlib-js/ndarray-slice
+
+[@stdlib/ndarray/slice-dimension]: https://github.com/stdlib-js/ndarray-slice-dimension
+
+[@stdlib/ndarray/slice-dimension-from]: https://github.com/stdlib-js/ndarray-slice-dimension-from
+
+<!-- </related-links> -->
 
 </section>
 
