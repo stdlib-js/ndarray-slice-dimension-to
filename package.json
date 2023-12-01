@@ -49,11 +49,11 @@
   "devDependencies": {
     "@stdlib/array-base-zero-to": "^0.1.0",
     "@stdlib/array-typed": "^0.1.0",
-    "@stdlib/bench": "^0.2.0",
+    "@stdlib/bench": "^0.2.1",
     "@stdlib/ndarray-array": "^0.1.0",
     "@stdlib/ndarray-base-assert-is-read-only": "^0.1.1",
     "@stdlib/ndarray-base-ctor": "^0.1.0",
-    "@stdlib/ndarray-base-empty": "^0.1.0",
+    "@stdlib/ndarray-base-empty": "^0.1.1",
     "@stdlib/ndarray-base-numel": "^0.1.1",
     "@stdlib/ndarray-ctor": "^0.1.0",
     "@stdlib/ndarray-empty": "^0.1.0",
