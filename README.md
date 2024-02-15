@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import sliceDimensionTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-slice-dimension-to@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/ndarray-slice-dimension-to/tags). For example,
+
+```javascript
 import sliceDimensionTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-slice-dimension-to@v0.2.0-esm/index.mjs';
 ```
 
@@ -159,7 +164,7 @@ arr = ndarray2array( y );
 import array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-array@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
 import zeroTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zero-to@esm/index.mjs';
-import sliceDimensionTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-slice-dimension-to@v0.2.0-esm/index.mjs';
+import sliceDimensionTo from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-slice-dimension-to@esm/index.mjs';
 
 // Create a linear ndarray buffer:
 var buf = zeroTo( 27 );
