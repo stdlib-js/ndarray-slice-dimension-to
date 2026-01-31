@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-slice-dimension-to",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Return a read-only truncated view of an input ndarray along a specific dimension.",
   "license": "Apache-2.0",
   "author": {
@@ -49,7 +49,7 @@
   },
   "devDependencies": {
     "@stdlib/array-base-zero-to": "^0.2.1",
-    "@stdlib/array-typed": "^0.3.0",
+    "@stdlib/array-typed": "^0.3.1",
     "@stdlib/ndarray-array": "^0.2.1",
     "@stdlib/ndarray-base-assert-is-read-only": "^0.2.2",
     "@stdlib/ndarray-base-ctor": "^0.2.2",
