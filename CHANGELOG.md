@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-28)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`96cd05f`](https://github.com/stdlib-js/stdlib/commit/96cd05f68ec3cb1836e7d357241b90d7d3fb5b8b) - **bench:** refactor to use string interpolation in `ndarray/slice-dimension-to` [(#10523)](https://github.com/stdlib-js/stdlib/pull/10523) _(by Sagar Ratna Chaudhary, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Sagar Ratna Chaudhary
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.4">
 
 ## 0.2.4 (2026-02-08)
