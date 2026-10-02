@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-19)
+## Unreleased (2026-10-02)
+
+<section class="features">
+
+### Features
+
+-   [`126c9e0`](https://github.com/stdlib-js/stdlib/commit/126c9e007c306e49041977eab2bb6c14d1ad3500) - add float16 dtype support to `ndarray/slice-dimension-to` [(#15749)](https://github.com/stdlib-js/stdlib/pull/15749)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`126c9e0`](https://github.com/stdlib-js/stdlib/commit/126c9e007c306e49041977eab2bb6c14d1ad3500) - **feat:** add float16 dtype support to `ndarray/slice-dimension-to` [(#15749)](https://github.com/stdlib-js/stdlib/pull/15749) _(by Samarth Kolarkar)_
 -   [`96cd05f`](https://github.com/stdlib-js/stdlib/commit/96cd05f68ec3cb1836e7d357241b90d7d3fb5b8b) - **bench:** refactor to use string interpolation in `ndarray/slice-dimension-to` [(#10523)](https://github.com/stdlib-js/stdlib/pull/10523) _(by Sagar Ratna Chaudhary, Athan Reines)_
 
 </details>
@@ -24,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Sagar Ratna Chaudhary
+-   Samarth Kolarkar
 
 </section>
 
